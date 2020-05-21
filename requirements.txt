@@ -9,6 +9,5 @@ pytest
 future
 funcy
 gensim
-GraphLab-Create
 nltk
 sklearn
