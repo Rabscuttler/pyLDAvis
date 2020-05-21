@@ -8,3 +8,7 @@ numexpr
 pytest
 future
 funcy
+gensim
+graphlab
+nltk
+sklearn
